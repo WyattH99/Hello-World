@@ -7,7 +7,7 @@ This was a pre-work exercise in making my first app with Android study.
 
 ### App Walk-though
 
-(https://user-images.githubusercontent.com/42938006/45272047-9a212380-b470-11e8-9914-cd29d3c9bb5d.gif)
+![hellowyatt](https://user-images.githubusercontent.com/42938006/45272047-9a212380-b470-11e8-9914-cd29d3c9bb5d.gif)
 
 
 ### Required User Stories
