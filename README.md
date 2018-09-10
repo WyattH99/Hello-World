@@ -6,9 +6,8 @@ Pre-Work ReadME
 This was a pre-work exercise in making my first app with Android study.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="" width=200><br>
+![hellowyatt](https://user-images.githubusercontent.com/42938006/45272047-9a212380-b470-11e8-9914-cd29d3c9bb5d.gif)
 
 
 ### Required User Stories
