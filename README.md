@@ -1,6 +1,6 @@
-# Hello-World
+# Hello-World APP
 Pre-Work ReadME
-## HelloWyatt
+## HelloWyatt APP
 
 ### App Description
 This was a pre-work exercise in making my first app with Android study.
